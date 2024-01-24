@@ -1,5 +1,6 @@
 from django.contrib.auth.models import User
 from django.db import models
+
 from apps.todo.models_helpers import create_default_description
 
 
